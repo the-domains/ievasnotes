@@ -1,0 +1,28 @@
+name: Ievasnotes
+favicon: null
+layout_spectrum: 0.3328993725590408
+typography_spectrum: 0.9676070872228593
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1497800990473479
+  lightness: 0.925911602564156
+  saturation: 0.07313232636079192
+  rhythmicContrast: 0.38207543827593327
+purpose: []
